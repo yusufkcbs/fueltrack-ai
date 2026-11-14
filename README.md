@@ -22,7 +22,7 @@ Bu projenin geliştirme ve yayınlama sürecinde Gemini yapay zeka asistanından
 3. **Hata Ayıklama (Debugging):** TypeScript'ten JavaScript'e (.jsx) geçiş sürecindeki derleme hatalarının çözülmesi ve Netlify dağıtım optimizasyonlarının yapılması.
 
 ## Canlı Bağlantı
-* Projeyi canlı olarak incelemek için tıklayın: FuelTrack AI Canlı Link((https://glittering-smakager-5c82a3.netlify.app/))
+* Projeyi canlı olarak incelemek için tıklayın: [FuelTrack AI Canlı Link](https://glittering-smakager-5c82a3.netlify.app/)
 
 ---
 *Geliştiren: Yusuf Kocabaş*
