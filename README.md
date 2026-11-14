@@ -12,17 +12,17 @@ FuelTrack AI, araç sahiplerinin seyahatlerini, yakıt tüketimlerini ve seyahat
 * **Frontend:** React (Vite ile)
 * **Stil & Tasarım:** Tailwind CSS
 * **Veri Depolama:** Browser LocalStorage
-* **Dağıtım (Deployment):** Vercel
+* **Dağıtım (Deployment):** Netlify
 * **Versiyon Kontrolü:** Git & GitHub
 
 ## Geliştirme Sürecinde Yapay Zekanın Rolü
 Bu projenin geliştirme ve yayınlama sürecinde Gemini yapay zeka asistanından şu aşamalarda aktif olarak destek alınmıştır:
 1. **Planlama & Mimari:** Uygulamanın ekran tasarımlarının, bileşen yapısının ve LocalStorage veri modelinin kurgulanması.
 2. **Kod Üretimi & Entegrasyon:** React bileşenlerinin yazılması ve Tailwind CSS sınıflarının entegre edilmesi.
-3. **Hata Ayıklama (Debugging):** TypeScript'ten JavaScript'e (.jsx) geçiş sürecindeki derleme hatalarının çözülmesi ve Vercel dağıtım optimizasyonlarının yapılması.
+3. **Hata Ayıklama (Debugging):** TypeScript'ten JavaScript'e (.jsx) geçiş sürecindeki derleme hatalarının çözülmesi ve Netlify dağıtım optimizasyonlarının yapılması.
 
 ## Canlı Bağlantı
-* Projeyi canlı olarak incelemek için tıklayın: [FuelTrack AI Canlı Link](https://fueltrack-ai-flame.vercel.app)
+* Projeyi canlı olarak incelemek için tıklayın: FuelTrack AI Canlı Link((https://glittering-smakager-5c82a3.netlify.app/))
 
 ---
 *Geliştiren: Yusuf Kocabaş*
